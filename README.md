@@ -1,5 +1,5 @@
 # Customer Relationship Management (CRM)
-Participated in the creation of a Customer Relationship Management (CRM) system at the Gujarat Industrial Hackathon (GIH) 2019, hosted by Marwadi University. Worked collaboratively with a team of seniors, contributing to the project's development by implementing a key module using HTML5 and Bootstrap.
+Participated in the creation of a Customer Relationship Management (CRM) system at the Gujarat Industrial Hackathon (GIH) 2019, hosted by Marwadi University. Worked collaboratively with a team of seniors, contributing to the project's development by implementing a key module using HTML5 and CSS.
 
 ![Screenshot](customer-relationship-management.png?raw=true)
 
