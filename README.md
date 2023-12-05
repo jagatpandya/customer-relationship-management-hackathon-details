@@ -23,4 +23,4 @@ Participated in the creation of a Customer Relationship Management (CRM) system 
 | **Team ID** | TG000827 |
 | **Institute Name** | S.P.B. Patel Engineering College<br>**Saffrony Institute of Technology**<br>***Gujarat Technological University*** |
 | **Solution** | A Web Portal for CRM |
-| **Technology Stack Used** | **Front End:** HTML, CSS, Bootstrap, JavaScript<br>**Back End:** JDBC, Java Servlet, JSP<br>**Database:** Oracle 
+| **Technology Stack Used** | **Front End:** HTML, CSS, Bootstrap, JavaScript<br>**Back End:** JDBC, Java Servlet, JSP<br>**Database:** Oracle |
